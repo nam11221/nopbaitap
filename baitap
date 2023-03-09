@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>FLOAT</title>>
+        <style>
+            .fl{
+                display: inline-block;
+            }
+            .menu{
+                padding: 0% 10px;
+                text-decoration: none;
+                font-size: 20px;
+            }
+            img{
+                float: left;
+            }
+            
+            h1{
+                text-align: center;
+                background: rgb(160, 197, 252);
+                padding: 2% 0%;
+                margin: 0%;
+            }
+            menu{
+                margin: 0%;
+                float: left;
+                background: rgb(134, 251, 255);
+                width: 60%;
+                padding: 2% 8%;       
+            }
+            ul{
+                margin: 0%;
+                float: left;
+                background: rgb(238, 212, 250);a
+                padding: 30% 2%;
+                text-align: center;
+            }
+            .uli{
+                padding-top: 2%;
+            }
+        </style>
+    </head>
+
+    <body>        
+        <div>
+            <br>
+            <img src="https://guantanamocity.org/wp-content/uploads/2020/12/intro-logo-doan-thanh-nien-doan-tncs-ho-chi-minh-0.png" alt="a1" height="80" width="70">
+
+            <h1>Lớp DCT20</h1>
+        </div> 
+
+        <div>
+            <div>
+                <ul class="uli">
+                    <u>Danh mục SP</u>
+                    <li>Danh mục 1</li>
+                    <li>Danh mục 2</li>
+                    <li>Danh mục 3</li>
+                    <li>Danh mục 4</li>
+                    <li>Danh mục 5</li>
+                </ul>
+            </div>
+            
+            <div>
+                <menu>
+                    <a href="http://pdu.edu.vn/" class="menu">Trang chủ</a>
+                    <a href="http://pdu.edu.vn/nss.php?name=Infor&id=3" class="menu">Giới thiệu</a>
+                    <a href="http://pdu.edu.vn/nss.php?name=DanhBa" class="menu">Liên hệ</a>
+                </menu>
+            </div>     
+        </div>
+        
+        
+        
+    </body>
+</html>
+
